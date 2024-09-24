@@ -2,13 +2,13 @@
 <h3 align="center">Passionate Developer | AI & ML Enthusiast | Building Solutions with Code</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1pk_ufFNsUQ3IXAaKp4AsJz_lAU5_ZBD5" />
+  <img src="https://drive.google.com/uc?id=1pk_ufFNsUQ3IXAaKp4AsJz_lAU5_ZBD5" width=400 />
 </p>
 
 ---
 
 <p align="center">
-  <a href="www.linkedin.com/in/shreyas-srivastava-b4b5282b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shreyas-srivastava-b4b5282b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.hackerrank.com/profile/shreyassrivasta4" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
   <a href="mailto:shreyassrivastava890@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
